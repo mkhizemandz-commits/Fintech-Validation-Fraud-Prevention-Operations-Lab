@@ -1,0 +1,501 @@
+application_id,id_verified,name_match,phone_verified,document_quality,previous_applications,applications_same_device,applications_same_phone,applications_same_address,recent_sim_change,identity_mismatch,risk_score,risk_level,recommended_action
+PJ-0001,Yes,Yes,Yes,Good,1,1,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0002,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0003,Yes,Yes,Yes,Good,0,0,3,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0004,Yes,Yes,Yes,Acceptable,1,0,3,0,No,No,23,LOW,Proceed with standard validation
+PJ-0005,Yes,Yes,Yes,Good,1,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0006,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0007,Yes,Yes,Yes,Good,0,0,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0008,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0009,Yes,Yes,Yes,Good,3,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0010,Yes,Yes,Yes,Good,0,5,0,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0011,Yes,Yes,Yes,Good,0,0,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0012,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0013,Yes,No,Yes,Good,0,0,2,2,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0014,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0015,Yes,Yes,Yes,Acceptable,0,0,2,3,Yes,No,23,LOW,Proceed with standard validation
+PJ-0016,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0017,Yes,Yes,Yes,Good,0,0,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0018,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0019,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0020,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0021,Yes,Yes,No,Good,0,0,2,0,No,No,15,LOW,Proceed with standard validation
+PJ-0022,Yes,Yes,Yes,Good,3,0,2,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0023,No,Yes,No,Acceptable,2,0,0,0,No,Yes,48,MEDIUM,Additional verification / manual review
+PJ-0024,Yes,Yes,No,Good,2,0,0,3,No,No,25,LOW,Proceed with standard validation
+PJ-0025,Yes,Yes,Yes,Good,4,0,0,1,Yes,No,20,LOW,Proceed with standard validation
+PJ-0026,Yes,Yes,Yes,Good,4,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0027,Yes,Yes,Yes,Good,1,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0028,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0029,Yes,Yes,No,Poor,0,0,0,3,No,No,35,MEDIUM,Additional verification / manual review
+PJ-0030,Yes,Yes,Yes,Acceptable,1,1,4,1,Yes,No,33,MEDIUM,Additional verification / manual review
+PJ-0031,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0032,Yes,Yes,Yes,Good,0,0,2,2,Yes,No,10,LOW,Proceed with standard validation
+PJ-0033,Yes,Yes,Yes,Acceptable,1,0,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0034,Yes,Yes,Yes,Acceptable,0,2,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0035,Yes,Yes,Yes,Acceptable,3,0,0,0,No,No,13,LOW,Proceed with standard validation
+PJ-0036,Yes,Yes,Yes,Good,3,2,3,1,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0037,Yes,Yes,Yes,Acceptable,2,2,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0038,Yes,Yes,Yes,Good,2,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0039,Yes,Yes,Yes,Acceptable,4,0,0,0,No,No,13,LOW,Proceed with standard validation
+PJ-0040,Yes,Yes,Yes,Poor,0,4,0,0,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0041,Yes,Yes,Yes,Good,0,0,0,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0042,Yes,Yes,Yes,Good,1,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0043,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0044,Yes,No,Yes,Acceptable,1,0,0,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0045,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0046,Yes,Yes,Yes,Good,0,2,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0047,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0048,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0049,Yes,No,Yes,Good,0,2,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0050,No,Yes,No,Acceptable,1,1,0,2,No,Yes,48,MEDIUM,Additional verification / manual review
+PJ-0051,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0052,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0053,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0054,Yes,Yes,Yes,Good,0,0,1,2,No,No,0,LOW,Proceed with standard validation
+PJ-0055,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0056,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0057,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0058,Yes,Yes,Yes,Good,0,0,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0059,Yes,Yes,Yes,Acceptable,4,0,0,0,No,No,13,LOW,Proceed with standard validation
+PJ-0060,Yes,Yes,Yes,Good,2,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0061,Yes,No,Yes,Good,0,1,3,0,No,Yes,50,MEDIUM,Additional verification / manual review
+PJ-0062,Yes,Yes,Yes,Good,2,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0063,Yes,Yes,Yes,Good,0,0,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0064,No,Yes,Yes,Good,0,1,3,0,No,Yes,50,MEDIUM,Additional verification / manual review
+PJ-0065,Yes,Yes,Yes,Good,0,2,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0066,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0067,Yes,Yes,Yes,Good,0,4,0,1,No,No,20,LOW,Proceed with standard validation
+PJ-0068,Yes,Yes,Yes,Good,2,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0069,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0070,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0071,No,Yes,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0072,Yes,No,Yes,Good,0,2,0,2,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0073,Yes,Yes,Yes,Good,4,0,1,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0074,Yes,Yes,Yes,Good,0,5,0,1,No,No,20,LOW,Proceed with standard validation
+PJ-0075,Yes,Yes,Yes,Good,0,2,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0076,Yes,Yes,No,Good,0,1,0,0,Yes,No,25,LOW,Proceed with standard validation
+PJ-0077,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0078,Yes,Yes,Yes,Good,3,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0079,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0080,Yes,No,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0081,Yes,No,Yes,Good,4,5,0,0,Yes,Yes,70,HIGH,Hold application and investigate
+PJ-0082,Yes,Yes,Yes,Acceptable,0,0,0,0,Yes,No,13,LOW,Proceed with standard validation
+PJ-0083,Yes,Yes,Yes,Acceptable,0,1,0,3,No,No,13,LOW,Proceed with standard validation
+PJ-0084,Yes,Yes,Yes,Good,4,0,0,4,No,No,20,LOW,Proceed with standard validation
+PJ-0085,Yes,Yes,Yes,Good,2,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0086,Yes,Yes,Yes,Good,4,1,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0087,Yes,Yes,No,Acceptable,0,0,1,0,No,No,18,LOW,Proceed with standard validation
+PJ-0088,Yes,Yes,Yes,Poor,0,0,0,3,No,No,20,LOW,Proceed with standard validation
+PJ-0089,Yes,Yes,Yes,Acceptable,0,3,0,1,No,No,23,LOW,Proceed with standard validation
+PJ-0090,Yes,Yes,No,Good,0,0,0,0,No,No,15,LOW,Proceed with standard validation
+PJ-0091,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0092,Yes,Yes,Yes,Good,2,5,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0093,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0094,Yes,Yes,No,Good,1,1,2,2,No,No,15,LOW,Proceed with standard validation
+PJ-0095,Yes,Yes,Yes,Acceptable,3,0,0,0,No,No,13,LOW,Proceed with standard validation
+PJ-0096,No,Yes,Yes,Good,1,2,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0097,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0098,Yes,Yes,Yes,Good,3,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0099,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0100,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0101,No,Yes,No,Good,0,0,0,1,Yes,Yes,55,MEDIUM,Additional verification / manual review
+PJ-0102,Yes,Yes,Yes,Good,2,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0103,Yes,Yes,Yes,Acceptable,1,3,0,0,No,No,23,LOW,Proceed with standard validation
+PJ-0104,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0105,Yes,Yes,Yes,Good,2,0,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0106,Yes,No,Yes,Poor,2,1,3,3,No,Yes,70,HIGH,Hold application and investigate
+PJ-0107,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0108,Yes,Yes,Yes,Good,3,0,2,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0109,Yes,Yes,Yes,Good,0,4,0,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0110,Yes,Yes,Yes,Good,1,4,0,1,No,No,20,LOW,Proceed with standard validation
+PJ-0111,Yes,Yes,Yes,Good,4,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0112,Yes,Yes,Yes,Good,4,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0113,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0114,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0115,Yes,Yes,Yes,Good,0,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0116,Yes,Yes,Yes,Good,0,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0117,Yes,Yes,Yes,Good,4,0,1,2,No,No,10,LOW,Proceed with standard validation
+PJ-0118,Yes,No,Yes,Good,0,1,0,2,Yes,Yes,40,MEDIUM,Additional verification / manual review
+PJ-0119,Yes,Yes,Yes,Good,1,0,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0120,Yes,Yes,Yes,Good,2,1,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0121,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0122,Yes,Yes,Yes,Acceptable,0,0,1,1,No,No,3,LOW,Proceed with standard validation
+PJ-0123,Yes,Yes,Yes,Good,0,1,1,2,No,No,0,LOW,Proceed with standard validation
+PJ-0124,No,Yes,Yes,Good,0,1,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0125,Yes,Yes,Yes,Acceptable,2,4,1,0,No,No,23,LOW,Proceed with standard validation
+PJ-0126,Yes,Yes,Yes,Good,0,1,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0127,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0128,Yes,Yes,Yes,Acceptable,1,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0129,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0130,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0131,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0132,Yes,Yes,Yes,Good,2,0,0,3,No,No,10,LOW,Proceed with standard validation
+PJ-0133,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0134,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0135,Yes,Yes,Yes,Good,0,0,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0136,Yes,Yes,Yes,Good,0,1,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0137,Yes,Yes,Yes,Acceptable,0,3,0,0,No,No,23,LOW,Proceed with standard validation
+PJ-0138,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0139,Yes,Yes,Yes,Acceptable,0,2,2,0,No,No,3,LOW,Proceed with standard validation
+PJ-0140,Yes,Yes,Yes,Acceptable,0,2,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0141,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0142,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0143,Yes,Yes,Yes,Good,1,0,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0144,Yes,Yes,Yes,Good,0,4,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0145,Yes,Yes,Yes,Acceptable,2,1,1,1,No,No,3,LOW,Proceed with standard validation
+PJ-0146,Yes,Yes,Yes,Good,0,0,0,3,No,No,10,LOW,Proceed with standard validation
+PJ-0147,Yes,Yes,Yes,Acceptable,0,1,1,2,Yes,No,13,LOW,Proceed with standard validation
+PJ-0148,Yes,Yes,Yes,Good,0,2,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0149,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0150,Yes,Yes,Yes,Acceptable,0,4,4,0,No,No,43,MEDIUM,Additional verification / manual review
+PJ-0151,Yes,Yes,No,Acceptable,2,0,0,0,No,No,18,LOW,Proceed with standard validation
+PJ-0152,Yes,Yes,Yes,Acceptable,0,1,0,2,No,No,3,LOW,Proceed with standard validation
+PJ-0153,Yes,No,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0154,No,Yes,Yes,Acceptable,2,1,1,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0155,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0156,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0157,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0158,Yes,Yes,Yes,Good,0,4,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0159,No,Yes,Yes,Good,1,5,0,0,No,Yes,50,MEDIUM,Additional verification / manual review
+PJ-0160,Yes,Yes,Yes,Acceptable,1,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0161,Yes,Yes,Yes,Good,1,2,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0162,Yes,Yes,Yes,Good,3,0,4,0,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0163,Yes,Yes,Yes,Acceptable,2,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0164,Yes,Yes,Yes,Poor,0,0,2,0,No,No,10,LOW,Proceed with standard validation
+PJ-0165,Yes,Yes,Yes,Acceptable,0,0,0,1,No,No,3,LOW,Proceed with standard validation
+PJ-0166,Yes,Yes,Yes,Good,0,2,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0167,No,No,Yes,Good,0,2,0,3,No,Yes,70,HIGH,Hold application and investigate
+PJ-0168,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0169,Yes,No,Yes,Acceptable,1,0,0,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0170,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0171,Yes,Yes,Yes,Good,2,0,2,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0172,Yes,Yes,Yes,Good,0,0,2,2,No,No,0,LOW,Proceed with standard validation
+PJ-0173,Yes,Yes,Yes,Good,0,0,0,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0174,Yes,Yes,Yes,Good,1,0,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0175,Yes,Yes,Yes,Good,4,1,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0176,Yes,Yes,Yes,Good,4,0,2,0,No,No,10,LOW,Proceed with standard validation
+PJ-0177,Yes,Yes,Yes,Good,0,4,2,2,No,No,20,LOW,Proceed with standard validation
+PJ-0178,Yes,Yes,Yes,Good,0,0,0,3,No,No,10,LOW,Proceed with standard validation
+PJ-0179,Yes,Yes,Yes,Acceptable,1,2,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0180,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0181,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0182,Yes,Yes,Yes,Good,2,4,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0183,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0184,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0185,Yes,Yes,No,Good,4,0,0,0,No,No,25,LOW,Proceed with standard validation
+PJ-0186,Yes,Yes,Yes,Good,2,0,2,1,No,No,0,LOW,Proceed with standard validation
+PJ-0187,Yes,Yes,Yes,Good,1,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0188,No,Yes,Yes,Poor,0,2,0,3,No,Yes,50,MEDIUM,Additional verification / manual review
+PJ-0189,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0190,Yes,Yes,Yes,Good,5,1,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0191,Yes,Yes,Yes,Acceptable,0,1,3,0,No,No,23,LOW,Proceed with standard validation
+PJ-0192,Yes,Yes,Yes,Good,4,2,1,0,No,No,10,LOW,Proceed with standard validation
+PJ-0193,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0194,Yes,Yes,Yes,Good,1,0,1,3,No,No,10,LOW,Proceed with standard validation
+PJ-0195,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0196,Yes,Yes,Yes,Acceptable,1,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0197,Yes,Yes,Yes,Poor,0,0,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0198,Yes,Yes,Yes,Good,0,1,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0199,No,Yes,Yes,Good,1,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0200,Yes,Yes,No,Good,0,1,0,0,No,No,15,LOW,Proceed with standard validation
+PJ-0201,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0202,Yes,Yes,No,Acceptable,0,0,3,0,No,No,38,MEDIUM,Additional verification / manual review
+PJ-0203,Yes,Yes,Yes,Good,1,3,2,0,No,No,20,LOW,Proceed with standard validation
+PJ-0204,Yes,Yes,No,Good,0,3,3,3,No,No,65,HIGH,Hold application and investigate
+PJ-0205,Yes,Yes,Yes,Poor,0,5,0,0,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0206,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0207,Yes,Yes,Yes,Good,2,3,1,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0208,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0209,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0210,Yes,Yes,Yes,Good,0,3,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0211,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0212,Yes,Yes,Yes,Acceptable,0,0,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0213,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0214,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0215,Yes,Yes,Yes,Acceptable,1,0,0,0,Yes,No,13,LOW,Proceed with standard validation
+PJ-0216,No,Yes,Yes,Acceptable,0,0,1,1,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0217,Yes,Yes,No,Good,2,3,0,1,No,No,35,MEDIUM,Additional verification / manual review
+PJ-0218,Yes,Yes,Yes,Good,0,0,1,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0219,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0220,Yes,Yes,Yes,Acceptable,0,1,2,0,No,No,3,LOW,Proceed with standard validation
+PJ-0221,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0222,Yes,Yes,Yes,Good,2,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0223,Yes,Yes,Yes,Good,0,0,0,3,No,No,10,LOW,Proceed with standard validation
+PJ-0224,Yes,Yes,Yes,Good,4,4,0,1,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0225,Yes,Yes,Yes,Acceptable,0,2,0,1,No,No,3,LOW,Proceed with standard validation
+PJ-0226,Yes,Yes,No,Good,0,0,0,0,No,No,15,LOW,Proceed with standard validation
+PJ-0227,Yes,Yes,Yes,Good,0,1,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0228,Yes,Yes,Yes,Good,2,0,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0229,No,Yes,No,Good,0,1,0,2,No,Yes,45,MEDIUM,Additional verification / manual review
+PJ-0230,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0231,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0232,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0233,Yes,Yes,Yes,Poor,1,0,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0234,Yes,Yes,Yes,Good,1,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0235,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0236,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0237,Yes,No,Yes,Acceptable,1,2,2,0,Yes,Yes,43,MEDIUM,Additional verification / manual review
+PJ-0238,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0239,No,Yes,Yes,Acceptable,1,2,1,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0240,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0241,Yes,Yes,Yes,Good,2,3,0,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0242,Yes,Yes,Yes,Good,3,0,3,0,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0243,Yes,Yes,Yes,Good,0,2,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0244,Yes,Yes,No,Good,0,4,0,0,No,No,35,MEDIUM,Additional verification / manual review
+PJ-0245,Yes,Yes,No,Good,2,0,0,4,No,No,25,LOW,Proceed with standard validation
+PJ-0246,Yes,No,Yes,Good,1,0,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0247,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0248,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0249,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0250,No,Yes,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0251,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0252,Yes,No,Yes,Good,2,0,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0253,No,Yes,Yes,Acceptable,0,0,3,3,No,Yes,63,HIGH,Hold application and investigate
+PJ-0254,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0255,Yes,Yes,Yes,Good,4,0,1,0,No,No,10,LOW,Proceed with standard validation
+PJ-0256,Yes,Yes,Yes,Good,0,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0257,Yes,Yes,No,Good,0,0,2,1,No,No,15,LOW,Proceed with standard validation
+PJ-0258,Yes,Yes,Yes,Good,1,0,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0259,Yes,Yes,No,Good,0,1,3,0,Yes,No,45,MEDIUM,Additional verification / manual review
+PJ-0260,Yes,Yes,Yes,Good,1,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0261,Yes,Yes,Yes,Good,0,4,0,3,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0262,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0263,Yes,Yes,Yes,Good,1,0,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0264,Yes,Yes,No,Good,0,0,0,0,Yes,No,25,LOW,Proceed with standard validation
+PJ-0265,Yes,Yes,Yes,Good,1,0,1,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0266,Yes,Yes,Yes,Good,0,0,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0267,Yes,Yes,Yes,Good,2,1,1,1,No,No,0,LOW,Proceed with standard validation
+PJ-0268,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0269,Yes,Yes,Yes,Good,1,1,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0270,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0271,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0272,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0273,Yes,Yes,Yes,Good,2,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0274,Yes,Yes,Yes,Good,5,0,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0275,No,Yes,Yes,Acceptable,1,0,1,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0276,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0277,Yes,Yes,Yes,Poor,1,0,3,1,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0278,No,Yes,Yes,Acceptable,0,1,1,1,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0279,Yes,Yes,Yes,Good,0,1,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0280,Yes,Yes,Yes,Poor,0,0,1,1,No,No,10,LOW,Proceed with standard validation
+PJ-0281,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0282,Yes,Yes,Yes,Good,0,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0283,Yes,Yes,Yes,Acceptable,0,0,3,0,No,No,23,LOW,Proceed with standard validation
+PJ-0284,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0285,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0286,Yes,Yes,Yes,Good,1,2,4,0,No,No,20,LOW,Proceed with standard validation
+PJ-0287,Yes,Yes,Yes,Good,0,3,0,1,No,No,20,LOW,Proceed with standard validation
+PJ-0288,Yes,No,Yes,Good,0,1,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0289,Yes,Yes,Yes,Acceptable,0,0,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0290,No,Yes,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0291,Yes,Yes,Yes,Good,0,0,1,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0292,Yes,No,Yes,Good,0,0,0,3,No,Yes,40,MEDIUM,Additional verification / manual review
+PJ-0293,Yes,Yes,Yes,Good,0,1,1,3,No,No,10,LOW,Proceed with standard validation
+PJ-0294,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0295,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0296,Yes,Yes,Yes,Good,2,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0297,Yes,Yes,Yes,Good,0,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0298,Yes,Yes,Yes,Good,4,0,1,1,No,No,10,LOW,Proceed with standard validation
+PJ-0299,Yes,Yes,Yes,Acceptable,2,0,1,0,Yes,No,13,LOW,Proceed with standard validation
+PJ-0300,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0301,Yes,Yes,Yes,Good,0,0,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0302,Yes,Yes,No,Acceptable,1,3,1,0,No,No,38,MEDIUM,Additional verification / manual review
+PJ-0303,Yes,Yes,Yes,Good,0,0,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0304,No,No,Yes,Good,0,2,0,0,Yes,Yes,70,HIGH,Hold application and investigate
+PJ-0305,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0306,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0307,No,Yes,Yes,Acceptable,1,0,0,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0308,Yes,No,Yes,Good,3,3,0,1,No,Yes,60,HIGH,Hold application and investigate
+PJ-0309,No,Yes,Yes,Good,2,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0310,Yes,Yes,Yes,Acceptable,1,1,0,0,Yes,No,13,LOW,Proceed with standard validation
+PJ-0311,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0312,Yes,Yes,Yes,Good,0,1,1,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0313,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0314,Yes,Yes,Yes,Good,0,0,1,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0315,Yes,No,Yes,Acceptable,0,1,0,0,No,Yes,33,MEDIUM,Additional verification / manual review
+PJ-0316,Yes,Yes,Yes,Acceptable,0,0,2,1,No,No,3,LOW,Proceed with standard validation
+PJ-0317,Yes,Yes,Yes,Good,2,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0318,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0319,Yes,Yes,Yes,Good,0,3,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0320,Yes,No,Yes,Good,0,0,2,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0321,Yes,Yes,Yes,Acceptable,2,0,4,0,No,No,23,LOW,Proceed with standard validation
+PJ-0322,No,No,Yes,Good,0,2,2,0,No,Yes,60,HIGH,Hold application and investigate
+PJ-0323,Yes,Yes,Yes,Good,2,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0324,Yes,Yes,Yes,Good,4,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0325,Yes,Yes,Yes,Good,0,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0326,Yes,Yes,Yes,Good,3,2,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0327,Yes,Yes,Yes,Acceptable,4,0,3,0,No,No,33,MEDIUM,Additional verification / manual review
+PJ-0328,Yes,Yes,Yes,Acceptable,2,4,0,0,No,No,23,LOW,Proceed with standard validation
+PJ-0329,Yes,Yes,Yes,Good,1,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0330,Yes,No,No,Good,5,4,0,0,No,Yes,75,HIGH,Hold application and investigate
+PJ-0331,No,Yes,Yes,Acceptable,0,1,0,4,No,Yes,43,MEDIUM,Additional verification / manual review
+PJ-0332,Yes,Yes,Yes,Good,3,0,0,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0333,Yes,Yes,Yes,Good,1,4,2,0,No,No,20,LOW,Proceed with standard validation
+PJ-0334,Yes,Yes,Yes,Acceptable,1,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0335,Yes,Yes,No,Good,0,0,1,0,No,No,15,LOW,Proceed with standard validation
+PJ-0336,Yes,Yes,Yes,Good,0,4,0,2,No,No,20,LOW,Proceed with standard validation
+PJ-0337,Yes,Yes,Yes,Good,1,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0338,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0339,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0340,Yes,Yes,Yes,Good,3,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0341,Yes,Yes,Yes,Acceptable,1,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0342,Yes,Yes,Yes,Acceptable,0,0,2,0,No,No,3,LOW,Proceed with standard validation
+PJ-0343,Yes,Yes,Yes,Good,0,3,1,1,No,No,20,LOW,Proceed with standard validation
+PJ-0344,Yes,Yes,Yes,Poor,4,2,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0345,Yes,No,Yes,Acceptable,0,3,2,0,No,Yes,53,MEDIUM,Additional verification / manual review
+PJ-0346,Yes,Yes,Yes,Good,3,2,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0347,Yes,Yes,Yes,Acceptable,3,3,0,0,No,No,33,MEDIUM,Additional verification / manual review
+PJ-0348,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0349,Yes,Yes,Yes,Acceptable,0,0,1,3,No,No,13,LOW,Proceed with standard validation
+PJ-0350,Yes,Yes,Yes,Good,0,1,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0351,No,Yes,Yes,Good,0,1,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0352,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0353,Yes,Yes,Yes,Good,2,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0354,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0355,Yes,Yes,Yes,Good,0,3,1,1,No,No,20,LOW,Proceed with standard validation
+PJ-0356,Yes,Yes,Yes,Poor,2,1,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0357,Yes,Yes,Yes,Good,3,1,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0358,Yes,Yes,No,Good,0,0,0,0,No,No,15,LOW,Proceed with standard validation
+PJ-0359,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0360,Yes,Yes,Yes,Good,5,1,2,0,No,No,10,LOW,Proceed with standard validation
+PJ-0361,Yes,Yes,Yes,Acceptable,3,2,1,0,No,No,13,LOW,Proceed with standard validation
+PJ-0362,Yes,Yes,Yes,Poor,0,0,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0363,Yes,Yes,Yes,Good,0,2,2,1,No,No,0,LOW,Proceed with standard validation
+PJ-0364,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0365,Yes,Yes,Yes,Good,0,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0366,Yes,Yes,Yes,Good,2,0,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0367,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0368,Yes,Yes,Yes,Good,1,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0369,Yes,Yes,Yes,Acceptable,0,1,0,1,Yes,No,13,LOW,Proceed with standard validation
+PJ-0370,Yes,Yes,Yes,Poor,0,0,0,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0371,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0372,Yes,Yes,Yes,Acceptable,0,0,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0373,Yes,No,Yes,Acceptable,0,0,3,2,No,Yes,53,MEDIUM,Additional verification / manual review
+PJ-0374,Yes,Yes,Yes,Good,1,0,0,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0375,Yes,Yes,Yes,Good,5,1,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0376,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0377,Yes,Yes,Yes,Good,2,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0378,Yes,Yes,Yes,Good,0,0,1,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0379,Yes,Yes,No,Good,0,1,2,2,No,No,15,LOW,Proceed with standard validation
+PJ-0380,Yes,Yes,Yes,Good,0,0,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0381,Yes,Yes,Yes,Good,0,2,0,1,Yes,No,10,LOW,Proceed with standard validation
+PJ-0382,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0383,Yes,Yes,Yes,Good,4,0,0,2,No,No,10,LOW,Proceed with standard validation
+PJ-0384,Yes,Yes,Yes,Good,0,4,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0385,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0386,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0387,Yes,Yes,Yes,Poor,1,0,0,1,Yes,No,20,LOW,Proceed with standard validation
+PJ-0388,Yes,Yes,Yes,Good,0,2,0,4,Yes,No,20,LOW,Proceed with standard validation
+PJ-0389,Yes,Yes,Yes,Acceptable,2,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0390,Yes,Yes,Yes,Good,0,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0391,Yes,Yes,Yes,Good,0,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0392,Yes,Yes,Yes,Good,0,1,3,0,Yes,No,30,MEDIUM,Additional verification / manual review
+PJ-0393,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0394,Yes,Yes,Yes,Poor,0,0,1,0,No,No,10,LOW,Proceed with standard validation
+PJ-0395,Yes,Yes,Yes,Good,1,0,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0396,Yes,Yes,Yes,Good,3,2,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0397,Yes,No,Yes,Good,0,0,3,2,No,Yes,50,MEDIUM,Additional verification / manual review
+PJ-0398,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0399,Yes,Yes,No,Acceptable,2,0,3,3,No,No,48,MEDIUM,Additional verification / manual review
+PJ-0400,Yes,Yes,Yes,Good,0,1,2,1,No,No,0,LOW,Proceed with standard validation
+PJ-0401,Yes,Yes,Yes,Good,0,1,4,1,No,No,20,LOW,Proceed with standard validation
+PJ-0402,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0403,Yes,Yes,Yes,Acceptable,2,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0404,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0405,Yes,Yes,Yes,Acceptable,1,2,1,0,No,No,3,LOW,Proceed with standard validation
+PJ-0406,Yes,Yes,Yes,Good,3,0,3,3,No,No,40,MEDIUM,Additional verification / manual review
+PJ-0407,Yes,Yes,Yes,Good,2,2,1,2,No,No,0,LOW,Proceed with standard validation
+PJ-0408,Yes,Yes,Yes,Good,2,4,0,0,No,No,20,LOW,Proceed with standard validation
+PJ-0409,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0410,Yes,Yes,Yes,Good,0,0,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0411,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0412,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0413,Yes,No,Yes,Poor,0,1,0,2,No,Yes,40,MEDIUM,Additional verification / manual review
+PJ-0414,Yes,No,Yes,Good,3,4,0,0,No,Yes,60,HIGH,Hold application and investigate
+PJ-0415,Yes,Yes,Yes,Acceptable,0,0,2,0,No,No,3,LOW,Proceed with standard validation
+PJ-0416,Yes,Yes,No,Good,0,0,0,1,No,No,15,LOW,Proceed with standard validation
+PJ-0417,Yes,Yes,Yes,Good,4,1,0,3,No,No,20,LOW,Proceed with standard validation
+PJ-0418,Yes,Yes,Yes,Good,0,2,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0419,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0420,Yes,Yes,Yes,Good,3,0,1,0,Yes,No,20,LOW,Proceed with standard validation
+PJ-0421,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0422,Yes,No,Yes,Good,3,2,1,0,No,Yes,40,MEDIUM,Additional verification / manual review
+PJ-0423,Yes,Yes,Yes,Good,1,0,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0424,Yes,Yes,Yes,Good,0,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0425,Yes,Yes,Yes,Acceptable,3,5,0,0,No,No,33,MEDIUM,Additional verification / manual review
+PJ-0426,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0427,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0428,Yes,Yes,Yes,Good,1,0,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0429,Yes,Yes,Yes,Good,1,0,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0430,Yes,Yes,Yes,Acceptable,0,0,0,0,Yes,No,13,LOW,Proceed with standard validation
+PJ-0431,Yes,Yes,Yes,Acceptable,1,0,4,0,No,No,23,LOW,Proceed with standard validation
+PJ-0432,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0433,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0434,Yes,No,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0435,Yes,Yes,Yes,Good,0,0,0,4,No,No,10,LOW,Proceed with standard validation
+PJ-0436,Yes,Yes,Yes,Acceptable,0,0,0,1,No,No,3,LOW,Proceed with standard validation
+PJ-0437,Yes,Yes,Yes,Good,3,0,0,2,No,No,10,LOW,Proceed with standard validation
+PJ-0438,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0439,Yes,Yes,Yes,Good,2,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0440,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0441,Yes,Yes,Yes,Poor,1,0,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0442,Yes,Yes,Yes,Poor,2,0,1,0,No,No,10,LOW,Proceed with standard validation
+PJ-0443,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0444,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0445,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0446,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0447,Yes,Yes,Yes,Good,2,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0448,Yes,Yes,Yes,Acceptable,0,0,1,1,No,No,3,LOW,Proceed with standard validation
+PJ-0449,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0450,Yes,Yes,Yes,Good,1,1,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0451,Yes,Yes,Yes,Good,0,1,1,2,No,No,0,LOW,Proceed with standard validation
+PJ-0452,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0453,Yes,Yes,No,Good,0,0,2,0,Yes,No,25,LOW,Proceed with standard validation
+PJ-0454,Yes,Yes,Yes,Good,5,1,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0455,Yes,Yes,Yes,Good,0,1,1,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0456,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0457,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0458,Yes,Yes,Yes,Poor,0,1,0,3,No,No,20,LOW,Proceed with standard validation
+PJ-0459,Yes,Yes,Yes,Good,0,4,1,3,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0460,Yes,Yes,Yes,Poor,1,1,1,3,No,No,20,LOW,Proceed with standard validation
+PJ-0461,Yes,Yes,Yes,Good,0,1,4,1,No,No,20,LOW,Proceed with standard validation
+PJ-0462,Yes,No,Yes,Good,2,0,0,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0463,Yes,Yes,Yes,Good,3,0,3,1,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0464,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0465,Yes,Yes,Yes,Good,1,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0466,Yes,Yes,No,Acceptable,2,0,4,2,No,No,38,MEDIUM,Additional verification / manual review
+PJ-0467,Yes,Yes,Yes,Acceptable,0,0,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0468,Yes,No,Yes,Good,1,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0469,Yes,Yes,Yes,Good,0,1,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0470,Yes,Yes,Yes,Good,0,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0471,Yes,Yes,Yes,Good,0,4,0,1,No,No,20,LOW,Proceed with standard validation
+PJ-0472,Yes,No,Yes,Good,1,2,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0473,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0474,Yes,Yes,Yes,Good,0,2,3,0,No,No,20,LOW,Proceed with standard validation
+PJ-0475,Yes,Yes,Yes,Good,1,0,1,2,No,No,0,LOW,Proceed with standard validation
+PJ-0476,Yes,Yes,Yes,Good,2,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0477,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0478,Yes,Yes,Yes,Poor,0,0,0,1,No,No,10,LOW,Proceed with standard validation
+PJ-0479,Yes,Yes,Yes,Good,0,0,2,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0480,Yes,Yes,Yes,Good,0,1,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0481,Yes,Yes,Yes,Acceptable,0,1,2,0,No,No,3,LOW,Proceed with standard validation
+PJ-0482,No,Yes,Yes,Good,4,1,0,0,No,Yes,40,MEDIUM,Additional verification / manual review
+PJ-0483,Yes,Yes,Yes,Good,0,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0484,Yes,Yes,Yes,Good,2,2,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0485,Yes,No,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0486,Yes,Yes,Yes,Good,1,0,0,0,No,No,0,LOW,Proceed with standard validation
+PJ-0487,Yes,Yes,Yes,Acceptable,1,0,1,1,No,No,3,LOW,Proceed with standard validation
+PJ-0488,Yes,Yes,Yes,Good,1,0,0,0,Yes,No,10,LOW,Proceed with standard validation
+PJ-0489,Yes,Yes,Yes,Good,0,1,1,0,No,No,0,LOW,Proceed with standard validation
+PJ-0490,Yes,Yes,Yes,Acceptable,5,0,1,0,No,No,13,LOW,Proceed with standard validation
+PJ-0491,No,Yes,Yes,Good,0,0,1,1,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0492,Yes,Yes,Yes,Acceptable,0,1,0,0,No,No,3,LOW,Proceed with standard validation
+PJ-0493,Yes,No,Yes,Good,0,0,0,0,No,Yes,30,MEDIUM,Additional verification / manual review
+PJ-0494,Yes,Yes,Yes,Good,3,2,0,0,No,No,10,LOW,Proceed with standard validation
+PJ-0495,Yes,Yes,Yes,Good,2,0,0,1,No,No,0,LOW,Proceed with standard validation
+PJ-0496,Yes,Yes,Yes,Good,0,1,3,4,No,No,30,MEDIUM,Additional verification / manual review
+PJ-0497,Yes,Yes,Yes,Acceptable,0,0,4,1,No,No,23,LOW,Proceed with standard validation
+PJ-0498,Yes,Yes,Yes,Good,0,0,2,0,No,No,0,LOW,Proceed with standard validation
+PJ-0499,Yes,Yes,Yes,Good,0,1,0,2,No,No,0,LOW,Proceed with standard validation
+PJ-0500,Yes,Yes,Yes,Good,0,0,0,0,No,No,0,LOW,Proceed with standard validation
