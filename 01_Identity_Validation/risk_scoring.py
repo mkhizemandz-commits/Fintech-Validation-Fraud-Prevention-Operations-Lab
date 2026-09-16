@@ -1,5 +1,11 @@
 import pandas as pd
-
+# NOTE:
+# This is a proposed portfolio scoring model using synthetic data.
+# The weights and thresholds are illustrative and do not represent
+# PayJoy's internal fraud rules, policies, or scoring methodology.
+#
+# The model is designed to demonstrate how multiple validation
+# indicators could be combined to prioritise cases for review.
 # Load the synthetic application dataset
 df = pd.read_csv("synthetic_applications.csv")
 
