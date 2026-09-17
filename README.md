@@ -233,12 +233,12 @@ This approach helps balance:
 
 | Section                   | Focus                                     |
 | ------------------------- | ----------------------------------------- |
-| `01_identity_validation`  | Synthetic data and risk scoring           |
-| `02_fraud_investigations` | Investigation scenarios                   |
-| `03_validation_dashboard` | Data visualisation and monitoring         |
-| `04_customer_support`     | Customer-service scenarios                |
-| `05_privacy_popia`        | Privacy-by-design and POPIA               |
-| `06_payjoy_sa_case_study` | Independent fintech validation case study |
+| `01_Identity_Validation`  | Synthetic data and risk scoring           |
+| `02_Fraud_Investigations` | Investigation scenarios                   |
+| `03_Validation_Dashboard` | Data visualisation and monitoring         |
+| `04_Customer_Support`     | Customer-service scenarios                |
+| `05_Privacy_Popia`        | Privacy-by-design and POPIA               |
+| `06_PayJoy_SA_Case_Study` | Independent fintech validation case study |
 
 ---
 
