@@ -10,6 +10,31 @@ The objective is not to automatically reject high-risk applications. The objecti
 
 ---
 
+## Case Handling Framework
+
+Each investigation follows a structured approach:
+
+**1. Identify the signal**  
+Determine what triggered additional attention.
+
+**2. Gather available evidence**  
+Review the relevant identity, document, phone, device and application information.
+
+**3. Consider alternative explanations**  
+Assess whether the behaviour could have a legitimate explanation or represent a false positive.
+
+**4. Determine the appropriate action**  
+Decide whether the case can proceed, requires additional verification, should be manually reviewed, or requires escalation.
+
+**5. Consider customer impact**  
+Maintain clear and respectful communication while protecting sensitive information.
+
+**6. Document and escalate**  
+Record relevant findings and escalate unresolved cases or potential system issues through the appropriate process.
+
+This framework is a proposed portfolio methodology and does not represent PayJoy's internal investigation procedure.
+---
+
 # Case 01 — Identity Verification Failure
 
 ### Risk indicators
