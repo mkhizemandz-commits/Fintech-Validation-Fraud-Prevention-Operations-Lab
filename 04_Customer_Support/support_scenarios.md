@@ -4,9 +4,9 @@
 
 This section demonstrates how I would approach customer-support situations involving identity validation, application reviews, potential fraud indicators and escalation.
 
-All scenarios are fictional and created for portfolio purposes.
+All scenarios are fictional and created independently for portfolio purposes.
 
-The approach focuses on balancing fraud prevention with a fair and respectful customer experience.
+The approach focuses on balancing fraud prevention with a fair, respectful and evidence-based customer experience.
 
 ---
 
@@ -21,15 +21,16 @@ A customer contacts support because their application has been placed under addi
 I would:
 
 1. Verify the customer's information using the approved support process.
-2. Review the available case status.
+2. Review the available case status and information.
 3. Explain that additional verification may be required before the application can continue.
-4. Avoid revealing confidential fraud-detection rules or internal thresholds.
+4. Avoid revealing confidential fraud-detection rules, thresholds or security controls.
 5. Explain what the customer needs to do next, if action is required.
-6. Escalate the case if it cannot be resolved within my authority.
+6. Document the interaction accurately.
+7. Escalate the case if it cannot be resolved within my authority.
 
 ### Customer communication
 
-I would keep the explanation clear, professional and reassuring without promising an outcome that has not yet been confirmed.
+I would keep the explanation clear, professional and reassuring without promising an outcome that has not been confirmed.
 
 ---
 
@@ -47,10 +48,11 @@ I would:
 
 * Verify the customer through the approved process.
 * Document the customer's report accurately.
-* Review the available application information.
+* Review the available application information within my access level.
 * Follow the appropriate identity/fraud escalation procedure.
 * Avoid exposing another person's personal information.
 * Explain the next steps clearly to the customer.
+* Escalate the case where additional investigation is required.
 
 ### Key principle
 
@@ -67,6 +69,8 @@ A customer submits an identity document that cannot be read clearly enough for v
 ### Approach
 
 I would explain that the submitted document could not be validated clearly and provide instructions for submitting a clearer document through the approved process.
+
+I would also document the validation issue accurately without assuming fraudulent intent.
 
 ### Important distinction
 
@@ -93,7 +97,8 @@ I would:
 3. Check the current application status.
 4. Explain what can and cannot be confirmed.
 5. Give the customer the next available step.
-6. Escalate if the case is outside my authority or appears to be experiencing a system issue.
+6. Document relevant information from the interaction.
+7. Escalate if the case is outside my authority or appears to involve a system issue.
 
 ### Communication principle
 
@@ -109,15 +114,20 @@ A customer believes their application was incorrectly blocked or declined.
 
 ### Approach
 
-I would review the available case information and determine whether the case can be reconsidered through the approved process.
+I would:
 
-If additional evidence is required, I would explain what is needed.
+1. Listen to the customer's concern without making assumptions.
+2. Review the available case information and validation history.
+3. Check whether the case qualifies for reconsideration under the approved process.
+4. Request or explain any additional evidence that may be required.
+5. Document the customer's dispute and the information reviewed.
+6. Escalate the case if the decision requires a higher level of review.
 
-If the decision cannot be changed at my level, I would explain the escalation or review process where available.
+If the decision cannot be changed at my level, I would clearly explain the available review or escalation process without promising a different outcome.
 
 ### Key principle
 
-Customer complaints should be handled objectively and documented accurately.
+Customer disputes should be handled objectively, consistently and accurately documented.
 
 ---
 
@@ -137,11 +147,12 @@ I would:
 * Compare the validation step involved.
 * Identify whether the issue appears widespread.
 * Check whether there is an approved troubleshooting process.
+* Document relevant examples and timestamps where available.
 * Escalate the pattern to the relevant technical or operational team.
 
 ### Key principle
 
-Not every validation failure is caused by customer behaviour.
+Not every validation failure is caused by customer behaviour. A repeated failure pattern may indicate an operational or technical issue that requires investigation.
 
 ---
 
@@ -156,6 +167,8 @@ An application has multiple applications associated with the same device. The cu
 I would not automatically classify the customer as fraudulent.
 
 I would consider the explanation together with the other available evidence, including identity and phone verification.
+
+I would document the explanation and assess the case according to the applicable validation process.
 
 If the remaining evidence supports the customer's explanation, the case may not require the same level of escalation as a case with multiple contradictory indicators.
 
@@ -175,7 +188,12 @@ A customer asks why another person's information appears to be associated with t
 
 I would not disclose another customer's personal information.
 
-I would explain that privacy and security rules prevent me from discussing another individual's information and focus on what can be safely confirmed about the customer's own case.
+I would:
+
+* Explain that privacy and security requirements prevent me from discussing another individual's information.
+* Focus on information that can safely be confirmed about the customer's own case.
+* Provide the appropriate next step for resolving the customer's concern.
+* Document the interaction accurately.
 
 ### Key principle
 
@@ -193,6 +211,7 @@ My customer-support approach is based on:
 * Privacy and confidentiality
 * Evidence-based investigation
 * Avoiding unnecessary false positives
+* Following approved procedures
 * Appropriate escalation
 * Setting realistic expectations
 * Treating customers respectfully
@@ -200,3 +219,4 @@ My customer-support approach is based on:
 ## Portfolio Disclaimer
 
 These scenarios are fictional and created independently for demonstration purposes. They do not represent PayJoy's internal customer-service procedures, escalation rules, fraud controls or confidential information.
+ion rules, fraud controls or confidential information.
